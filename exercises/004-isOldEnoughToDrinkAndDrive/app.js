@@ -1,3 +1,7 @@
 function isOldEnoughToDrinkAndDrive(age) {
-  // your code here
+  return false
 }
+
+var drinkAndDrive = isOldEnoughToDrinkAndDrive(40)
+
+console.log(drinkAndDrive)
